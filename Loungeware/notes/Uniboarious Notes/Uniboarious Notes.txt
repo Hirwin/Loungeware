@@ -1,0 +1,16 @@
+TODO
+create quick time feature that registers success/failures
+	- keeping scaling of difficulty in mind have an array of all possible inputs
+	- then add them to a list randomly
+	- scale the list so 4/8/12/16 inputs
+	- diffiiculty has that difficulty number of inputs at a time
+	list of lists
+	so 
+	list {
+		list1{first set of inputs}//can be 1/2/3/4 inputs
+		list2{second set of inputs}
+		list3{third set of inputs}
+		list4{fourth set of inputs}
+	}
+	every 2 seconds throw a new QTE
+	fail if the next QTE would trigger
