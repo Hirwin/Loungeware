@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "laxxia_uniboardious_QTE",
-    "path": "sprites/laxxia_uniboardious_QTE/laxxia_uniboardious_QTE.yy",
+    "name": "laxxia_uniboarious_QTE",
+    "path": "sprites/laxxia_uniboarious_QTE/laxxia_uniboarious_QTE.yy",
   },
   "solid": false,
   "visible": true,

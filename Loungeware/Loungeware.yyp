@@ -776,7 +776,7 @@
     {"id":{"name":"yosi_EFT_obj_building","path":"objects/yosi_EFT_obj_building/yosi_EFT_obj_building.yy",},"order":12,},
     {"id":{"name":"katsaii_witchcraft_5","path":"sprites/katsaii_witchcraft_5/katsaii_witchcraft_5.yy",},"order":4,},
     {"id":{"name":"baku_skate_spr_mimpy_hit_shadow","path":"sprites/baku_skate_spr_mimpy_hit_shadow/baku_skate_spr_mimpy_hit_shadow.yy",},"order":5,},
-    {"id":{"name":"laxxia_uniboardious_QTE","path":"sprites/laxxia_uniboardious_QTE/laxxia_uniboardious_QTE.yy",},"order":3,},
+    {"id":{"name":"laxxia_uniboarious_QTE","path":"sprites/laxxia_uniboarious_QTE/laxxia_uniboarious_QTE.yy",},"order":3,},
     {"id":{"name":"baku_mine_spr_pixel","path":"sprites/baku_mine_spr_pixel/baku_mine_spr_pixel.yy",},"order":11,},
     {"id":{"name":"katsaii_witchwanda_snd_wanda_fly","path":"sounds/katsaii_witchwanda_snd_wanda_fly/katsaii_witchwanda_snd_wanda_fly.yy",},"order":5,},
     {"id":{"name":"objfrog_pp_draw_self_3d","path":"scripts/objfrog_pp_draw_self_3d/objfrog_pp_draw_self_3d.yy",},"order":3,},
